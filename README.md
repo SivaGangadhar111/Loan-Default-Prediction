@@ -1,0 +1,2 @@
+# Loan-Default-Prediction
+The Bank Indessa has not done well in last 3 quarters. Their NPAs (Non Performing Assets) have reached all time high. It is starting to lose confidence of its investors.   After careful analysis, It was found that the majority of NPA was contributed by loan defaulters. With the messy data collected over all the years, this bank has decided to use machine learning to figure out a way to find these defaulters and devise a plan to reduce them.  In this challenge, We will help this bank by predicting the probability that a member will default.
